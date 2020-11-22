@@ -11,7 +11,7 @@ namespace WebAddressbookTests
     {
         private string name;
         private string header = "";
-        private string footer = ""
+        private string footer = "";
 
        public GroupData(string name)
         {
